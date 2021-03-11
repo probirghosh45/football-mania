@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+.TeamBadgeStyle{
+  max-width: 150px;
+  display: block;
+  margin: 0 auto;
+  padding-top: 10px;;
+}
+
+.TeamInfo{
+  text-align: center;
+  
+  /* margin:50px; */
+  /* margin-right:20px; */
+  /* margin-top:50px;
+  margin-left:50px;
+  margin-top:50px; */
+
+}
+.TeamInfo img {
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+/* .TeamBannerStyle{
+  position: relative;
+  display: block;
+
+}
+
+.TeamBadgeStyle{
+  position: absolute;
+  margin-left: 50%;
+  margin-top: 50%;
+  transform: translate(-50%,-50%);
+} */
+
+.teamDescription{
+  color: #C6C6C6;
+
+  
+  text-align: left;
+  padding-left: 30px;
+  text-justify:newspaper;
+  font-size: 15px;
+  font-weight: 300;
+}
+  /* SOCIAL STUFF */
+  .social-container {
+    background: #eee;
+    padding: 25px 50px;
+    text-align: center;
+  }
+  a.social {
+    margin: 0 1rem;
+    transition: transform 250ms;
+    display: inline-block;
+  }
+  
+  a.social:hover {
+    transform: translateY(-2px);
+  }
+  
+  a.youtube {
+    color: #eb3223;
+  }
+  
+  a.facebook {
+    color: #4968ad;
+  }
+  
+  a.twitter {
+    color: #49a1eb;
+  }
+  

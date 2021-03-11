@@ -1,0 +1,23 @@
+
+/* *{padding:0;margin: 0;} */
+.BannerStyle {
+    position: relative;
+    margin:0 auto;
+}
+
+.BannerStyle img {
+    width:100%;
+}
+
+.Heading {
+    color:#FC4D57;
+    position: absolute;
+    top:40%;
+    padding:0px;
+    margin:0px;
+    width:100%;
+    text-align: center;
+    font-weight: bold;
+    font-size: 48px;
+
+}
